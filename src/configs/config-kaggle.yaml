@@ -1,0 +1,7 @@
+names:
+- Number_Plate
+nc: 1
+train: datasets/License_coco/License_coco/train
+val: datasets/License_coco/License_coco/valid
+test: datasets/License_coco/License_coco/test
+

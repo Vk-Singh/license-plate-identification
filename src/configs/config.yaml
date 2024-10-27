@@ -1,0 +1,7 @@
+names:
+- Number_Plate
+nc: 1
+train: /home/vk/Documents/portfolio/license_plate_classification/data/License_coco/train
+val: /home/vk/Documents/portfolio/license_plate_classification/data/License_coco/valid
+test: /home/vk/Documents/portfolio/license_plate_classification/data/License_coco/test
+
